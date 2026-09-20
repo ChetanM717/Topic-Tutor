@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f2f5ff;
+  text-align: center;
+  margin: 0;
+}
+
+.container {
+  max-width: 600px;
+  margin: 80px auto;
+  background: white;
+  padding: 30px;
+  border-radius: 20px;
+}
+
+h1 {
+  font-size: 35px;
+}
+
+input, select {
+  width: 90%;
+  padding: 14px;
+  margin: 10px;
+  border-radius: 10px;
+  border: 1px solid #ccc;
+}
+
+button {
+  padding: 14px 25px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+#result {
+  margin-top: 25px;
+  text-align: left;
+}
